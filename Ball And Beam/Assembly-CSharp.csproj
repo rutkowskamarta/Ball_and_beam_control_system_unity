@@ -61,9 +61,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\ControlSystem.cs" />
     <Compile Include="Assets\GearControllerScript.cs" />
-    <Compile Include="Assets\Panel_controller.cs" />
-    <Compile Include="Assets\PID_control_system.cs" />
+    <Compile Include="Assets\HysteresisControlSystem.cs" />
+    <Compile Include="Assets\PanelController.cs" />
+    <Compile Include="Assets\PIDControlSystem.cs" />
+    <Compile Include="Assets\TwoStepControlSystem.cs" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
     <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
