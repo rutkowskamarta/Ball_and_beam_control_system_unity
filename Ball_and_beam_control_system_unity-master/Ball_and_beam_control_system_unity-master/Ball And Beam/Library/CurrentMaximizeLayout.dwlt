@@ -22,7 +22,7 @@ MonoBehaviour:
   m_MinSize: {x: 885, y: 492}
   m_MaxSize: {x: 16010, y: 14042}
   vertical: 1
-  controlID: 15436
+  controlID: 128
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -125,7 +125,7 @@ MonoBehaviour:
   m_MinSize: {x: 885, y: 492}
   m_MaxSize: {x: 16010, y: 14042}
   vertical: 0
-  controlID: 15437
+  controlID: 129
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 608, y: 492}
   m_MaxSize: {x: 12008, y: 14042}
   vertical: 1
-  controlID: 15438
+  controlID: 130
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 608, y: 221}
   m_MaxSize: {x: 12008, y: 4021}
   vertical: 0
-  controlID: 15439
+  controlID: 131
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,10 +226,10 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 122}
-    m_SelectedIDs: 3808f9ff
-    m_LastClickedID: -456648
-    m_ExpandedIDs: 2639faffe608fbff6a38fbff4af9ffff00000000762f0000902f000068300000
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 020d0000
+    m_LastClickedID: 3330
+    m_ExpandedIDs: e4fbffff00000000680c0000de0c0000960d00002c0e0000e20e0000020f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -271,8 +271,8 @@ MonoBehaviour:
     y: 0
     width: 363
     height: 460
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -330,14 +330,14 @@ MonoBehaviour:
     height: 439
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 2074.3806734298573
+  lastFramingTime: 27.62790691243184
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -6.11972, y: 5.118447, z: -7.430881}
+    m_Target: {x: -5, y: 0.30000153, z: 0}
     speed: 2
-    m_Value: {x: -6.11972, y: 5.118447, z: -7.430881}
+    m_Value: {x: -5, y: 0.30000153, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -369,9 +369,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.9372544
+    m_Target: 4.11162
     speed: 2
-    m_Value: 3.9372544
+    m_Value: 4.11162
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -495,15 +495,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\marta\Desktop\GitHub\ball_and_beam\Ball_and_beam_control_system_unity-master\Ball_and_beam_control_system_unity-master\Ball
+  m_LastProjectPath: C:\Users\marta\Desktop\GitHub\Ball_and_beam_control_system_unity\Ball_and_beam_control_system_unity-master\Ball_and_beam_control_system_unity-master\Ball
     And Beam
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 9e2b0000
-    m_LastClickedID: 11166
-    m_ExpandedIDs: 000000009e2b000000ca9a3b
+    m_SelectedIDs: 74090000
+    m_LastClickedID: 2420
+    m_ExpandedIDs: 000000007409000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -531,7 +531,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009e2b000000ca9a3b
+    m_ExpandedIDs: 0000000074090000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,8 +556,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 3808f9ff
-    m_LastClickedInstanceID: -456648
+    m_SelectedInstanceIDs: 020d0000
+    m_LastClickedInstanceID: 3330
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: f02b000048300000ce2e0000c83100000a3100002e3100004648feff000000008ecefdff
     m_RenameOverlay:
