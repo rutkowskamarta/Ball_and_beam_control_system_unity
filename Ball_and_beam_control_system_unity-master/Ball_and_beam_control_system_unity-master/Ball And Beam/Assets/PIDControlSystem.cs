@@ -38,6 +38,7 @@ public class PIDControlSystem : ControlSystem {
     {
         float error = CalculateError();
         float u_control = Kp * error + Ki * e_sum + Kd * e_der;
+        Debug.Log("pid u: " + u_control + " e:" + error);
         return u_control;
     }
 
